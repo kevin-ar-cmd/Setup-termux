@@ -28,4 +28,4 @@ pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg instal
 <h3>DEMO SS</h3>
 <center><img src="ss2.png" alt="kevin-ar-cmd" height="400" width="1500"></img></center></br>
 
-<h3><a href="https://facebook.com/groups/spamming.termux.learning.point/"> ©️STLP-TEAM</a></h3>
+<h3><a href="https://www.facebook.com/profile.php?id=61574132412490"> ©️ Termux Command Hub</a></h3>
